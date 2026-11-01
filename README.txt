@@ -1,0 +1,2 @@
+MY TINY WORLD 0.1
+Upload index.html and manifest.webmanifest to the ROOT of a NEW public GitHub repository. Enable Settings > Pages > Deploy from a branch > main > /(root). Open the published URL in Safari and Add to Home Screen. This is a playable web demo, not a native App Store/Google Play app. Progress is stored locally in this browser.
